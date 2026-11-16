@@ -25,7 +25,7 @@ Every night, Reckon's agent checks your competitors' Meta Ad Library: it watches
 ## Setup (5 minutes)
 
 1. **Create a free Reckon account:** https://usereckon.ai/?utm_source=x_divyansh
-2. **Add Reckon to Claude:** Claude → Settings → Connectors → *Add custom connector* → `https://usereckon.ai/mcp` → sign in
+2. **Add Reckon to Claude:** Claude → Settings → Connectors → *Add custom connector* → `https://usereckon.ai/connect/mcp` → sign in
 3. **Turn on code execution:** Settings → Capabilities → *Code execution and file creation*
 4. **Upload the skill:** download [`reckon-bfcm-kit.zip`](./reckon-bfcm-kit.zip) → Customize → Skills → **+** → *Upload a skill*
 5. **Ask:** *"Make my Black Friday ads for [your brand]"*
