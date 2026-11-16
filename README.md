@@ -4,6 +4,9 @@
 
 Not generic AI copy: every idea is backed by real competitor ads (and your own best ads, if you connect your ad account).
 
+### ⬇️ [Download the skill (reckon-bfcm-kit.zip)](https://github.com/Divyansh0811/black-friday-meta-ads-claude-skill/raw/main/reckon-bfcm-kit.zip)
+Upload this ZIP to Claude as-is (Customize → Skills → Upload a skill). Don't use GitHub's green "Code → Download ZIP" button: that downloads the whole repo, not the skill.
+
 One prompt, *"Make my Black Friday ads"*, and you get:
 
 1. **The market right now**: what your competitors are offering, what's crowded, what's barely used, which ads are gaining impressions this week
@@ -27,7 +30,7 @@ Every night, Reckon's agent checks your competitors' Meta Ad Library: it watches
 1. **Create a free Reckon account:** https://usereckon.ai/?utm_source=x_divyansh
 2. **Add Reckon to Claude:** Claude → Settings → Connectors → *Add custom connector* → `https://usereckon.ai/connect/mcp` → sign in
 3. **Turn on code execution:** Settings → Capabilities → *Code execution and file creation*
-4. **Upload the skill:** download [`reckon-bfcm-kit.zip`](./reckon-bfcm-kit.zip) → Customize → Skills → **+** → *Upload a skill*
+4. **Upload the skill:** download [`reckon-bfcm-kit.zip`](https://github.com/Divyansh0811/black-friday-meta-ads-claude-skill/raw/main/reckon-bfcm-kit.zip) → Customize → Skills → **+** → *Upload a skill*
 5. **Ask:** *"Make my Black Friday ads for [your brand]"*
 
 On first run it asks for your competitors' **Meta Ad Library links** (facebook.com/ads/library → search the brand → open its page → copy the link with `view_all_page_id=`). Newly added competitors take a little while to be read.
