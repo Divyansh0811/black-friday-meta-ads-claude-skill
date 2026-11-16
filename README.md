@@ -1,6 +1,6 @@
 # Black Friday Meta Ads Claude Skill: your BFCM ad creative in one prompt
 
-**Free Claude skill that writes your Black Friday & Cyber Monday Meta ads: offers, static concepts, video scripts and copy, built from your competitors' Ad Library. Powered by [Reckon MCP](https://usereckon.ai/?utm_source=x_divyansh&utm_campaign=bfcm_kit_github).**
+**Free Claude skill that writes your Black Friday & Cyber Monday Meta ads: offers, static concepts, video scripts and copy, built from your competitors' Ad Library. Powered by [Reckon MCP](https://usereckon.ai/?utm_source=x_divyansh).**
 
 Not generic AI copy: every idea is backed by real competitor ads (and your own best ads, if you connect your ad account).
 
@@ -24,7 +24,7 @@ Every night, Reckon's agent checks your competitors' Meta Ad Library: it watches
 
 ## Setup (5 minutes)
 
-1. **Create a free Reckon account:** https://usereckon.ai/?utm_source=x_divyansh&utm_campaign=bfcm_kit_github
+1. **Create a free Reckon account:** https://usereckon.ai/?utm_source=x_divyansh
 2. **Add Reckon to Claude:** Claude → Settings → Connectors → *Add custom connector* → `https://usereckon.ai/mcp` → sign in
 3. **Turn on code execution:** Settings → Capabilities → *Code execution and file creation*
 4. **Upload the skill:** download [`reckon-bfcm-kit.zip`](./reckon-bfcm-kit.zip) → Customize → Skills → **+** → *Upload a skill*
@@ -72,4 +72,4 @@ Yes. With competitors only, it builds the kit from their ads plus your website. 
 - Competitors publish no spend, so anything based on competitor ads is a **test**, not a sure winner. The kit labels every idea with its evidence.
 - Not legal advice: check flagged claims (e.g. a "was" price) before running.
 
-Built by [@div908](https://x.com/div908) · I'm building [Reckon](https://usereckon.ai/?utm_source=x_divyansh&utm_campaign=bfcm_kit_github)
+Built by [@div908](https://x.com/div908) · I'm building [Reckon](https://usereckon.ai/?utm_source=x_divyansh)

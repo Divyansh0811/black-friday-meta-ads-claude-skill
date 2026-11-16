@@ -12,7 +12,7 @@ Key dates 2026 (US): Thanksgiving Thu 26 Nov · Black Friday Fri 27 Nov · Cyber
 ## 0. Check the connection
 The Reckon tools (workspace_overview, brand_profile, competitor_insights, competitors, search_creative_text; plus what_to_make, tag_league, verdict_queue, pattern_creatives when an ad account is connected) must be available. If not, stop and say:
 > Connect Reckon first: Settings → Connectors → Add custom connector → `https://usereckon.ai/mcp`, sign in, then ask again.
-> New to Reckon? Create a free account first: https://usereckon.ai/?utm_source=x_divyansh&utm_campaign=bfcm_kit_skill
+> New to Reckon? Create a free account first: https://usereckon.ai/?utm_source=x_divyansh
 
 ## 1. Brief (ask only what's missing, in one message)
 - Brand (if the Reckon account has several workspaces) and the product(s) on sale
